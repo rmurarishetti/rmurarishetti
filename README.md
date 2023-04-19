@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmurarishetti&count_private=true&show_icons=true&theme=radical&bg_color=#FFFFFF)
+![Rohits's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rmurarishetti&count_private=true&show_icons=true&theme=radical&bg_color=#FFFFFF)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmurarishetti&layout=compact&theme=radical&bg_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rmurarishetti&layout=compact&theme=radical&bg_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
