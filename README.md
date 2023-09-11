@@ -1,5 +1,13 @@
-### Hi there 👋, I'm Rohit!
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=000000&center=true&multiline=true&repeat=false&width=435&height=40&lines=Rohit Raghuram Murarishetti+👋&color=FFFFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=000000&center=true&multiline=true&repeat=false&width=435&height=40&lines=Visshal+Natarajan+👋&color=000000" />
+</picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Sans&weight=300&size=25&duration=9000&pause=1000&color=000000&center=true&multiline=true&repeat=true&width=1000&height=70&lines=Entrepreneur+%7C+Student+%7C+Engineer&color=FFFFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Sans&weight=300&size=25&duration=9000&pause=1000&color=000000&center=true&multiline=true&repeat=true&width=1000&height=70&lines=Entrepreneur+%7C+Student+%7C+Engineer&color=000000" />
+</picture>
+</p>
 <!--
 **rmurarishetti/rmurarishetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
