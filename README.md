@@ -25,8 +25,16 @@ Here are some ideas to get you started:
 </picture>
 </p>
 
+## 🧑🏽‍💻 About Me
+Hey, I'm Rohit Murarishetti, a senior year computer science student 👨🏽‍🎓 at the Singapore University of Technology and Design 🏛️.
+
+I love learning new stuff and sharing my knowledge with people. 😋 Outside work, you can find me reading geopolitics 📝, watching movies 🍿, hiking 🥾, and traveling to random places 🌉.
+
+## 🚀 Github Stats
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmurarishetti&layout=donut&theme=transparent&show_icons=true"/>
+<br/>
 
 ![Rohits's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rmurarishetti&count_private=true&show_icons=true&theme=radical&bg_color=#FFFFFF)
 
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rmurarishetti&layout=compact&theme=radical&bg_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
