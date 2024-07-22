@@ -32,8 +32,8 @@ I love learning new stuff and sharing my knowledge with people. 😋 Outside wor
 
 ## 🚀 Github Stats
 
-![Rohits's GitHub stats](https://readme-stats-ruby-eight.vercel.app/api?username=rmurarishetti&count_private=true&show_icons=true&theme=radical&bg_color=#FFFFFF)
-![Rohit's Top Langs](https://readme-stats-ruby-eight.vercel.app/api/top-langs/?username=rmurarishetti&layout=compact&theme=radical&bg_color=#FFFFFF&hide=jupyter)
+![Rohits's GitHub stats](https://readme-stats-git-dependabot-npma-129de9-rmurarishettis-projects.vercel.app/api?username=rmurarishetti&count_private=true&show_icons=true&theme=radical&bg_color=#FFFFFF)
+![Rohit's Top Langs](https://readme-stats-git-dependabot-npma-129de9-rmurarishettis-projects.vercel.app/api/top-langs/?username=rmurarishetti&layout=compact&theme=radical&bg_color=#FFFFFF&hide=jupyter)
 
  ## 🖥  Technology 
 <p align="center">
