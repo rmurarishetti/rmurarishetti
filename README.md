@@ -33,6 +33,7 @@ I love learning new stuff and sharing my knowledge with people. 😋 Outside wor
 ## 🚀 Github Stats
 
 ![Rohits's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rmurarishetti&count_private=true&show_icons=true&theme=radical&bg_color=#FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmurarishetti&layout=compact&theme=radical&bg_color=#FFFFFF)
 
  ## 🖥  Technology 
 <p align="center">
